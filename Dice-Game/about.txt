@@ -1,0 +1,1 @@
+This is a Dice Game project made using React-JS.
